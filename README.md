@@ -106,13 +106,6 @@ I write practical guides on Swift, iOS architecture, and mobile engineering. Som
 
 ---
 
-## GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=m-hamzak&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-hamzak&layout=compact&hide_border=true&theme=default" alt="Top languages" height="160"/>
-</p>
-
 ---
 
 ## Beyond the code
