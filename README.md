@@ -18,9 +18,10 @@
 I'm a Senior Mobile Engineer specialising in iOS (Swift, SwiftUI) with a track record of shipping production-grade apps at scale — from **mobile banking platforms serving thousands of GCC users** to **government document systems** and **automotive workshop management**. I care deeply about clean architecture, security, and building things that actually hold up in production.
 
 - Currently building government mobile products at **Intalio, Doha** (iOS, Android, React Native)
-- Previously led iOS at **Contour Software** (R.O.Writer — automotive) and **Avanza Solutions** (3 banking apps)
+- Previously led iOS at **Contour Software** (R.O.Writer — automotive) and **Avanza Solutions** (5 banking apps)
 - **FIME Certified** for Apple Pay integration — one of very few iOS engineers with this credential
-- I write about Swift, iOS architecture, and mobile engineering on **[Medium](https://medium.com/@m-hamzak)**
+- **Google Certified Project Manager** · **McKinsey Forward Program** alumni
+- I write about Swift, iOS architecture, AI, and mobile engineering on **[Medium](https://medium.com/@m-hamzak)** — 17 published articles, 2,000+ followers
 
 ---
 
@@ -69,7 +70,7 @@ I'm a Senior Mobile Engineer specialising in iOS (Swift, SwiftUI) with a track r
 ## Career highlights
 
 - **FIME-certified Apple Pay** — integrated standards-compliant mobile payment processing for regional banking clients across the GCC
-- **3 mobile banking apps** — Khaleeji Commercial Bank, Bank of Bahrain & Kuwait, and Habib Metro Bank — shipped with full regulatory compliance and Apple Watch companion
+- **5 mobile banking apps** — Khaleeji Commercial Bank, Bank of Bahrain & Kuwait, Habib Metro Bank, Summit Bank, and Faysal Bank — shipped with full regulatory compliance and Apple Watch companion
 - **Google ML Kit** — automated licence plate detection and barcode scanning, eliminating the majority of manual data entry in automotive workflows
 - **Modular iOS architecture** — designed parallel feature development systems supporting 4+ concurrent government product streams
 - **Azure Blob + video compression pipeline** — dramatically reduced upload sizes; SwiftUI media component adopted as team-wide standard
@@ -88,21 +89,30 @@ I'm a Senior Mobile Engineer specialising in iOS (Swift, SwiftUI) with a track r
 | Bank of Bahrain & Kuwait | Mobile banking — GCC | Swift, UIKit, Encryption |
 | Habib Metro Bank | Mobile banking | Swift, UIKit, RTL, Apple Watch |
 | GeoRep | Real-time field sales navigation | iOS + Android, MapBox, Stripe |
+| RozCar | Van service app — ride booking, maps, navigation, daily schedules | iOS + Android, MapBox |
 
 ---
 
 ## Writing on Medium
 
-I write practical guides on Swift, iOS architecture, and mobile engineering. Some recent pieces:
+I write practical guides on iOS engineering, AI, Swift, and mobile architecture. 17 published articles · 2,000+ followers.
 
-- **Image Markup 1 & 2** — building annotation tools on iOS
-- **Swift Protocols** — a deep dive into protocol-oriented design
-- **Swift Advanced Protocols & Practical Guide** — real-world protocol patterns
-- **SwiftUI Basics** — getting started with SwiftUI the right way
-- **Git Library** — a developer's reference
-- **AI Library** — exploring AI tooling for mobile engineers
+**Recent — AI series**
+- **I Was Skeptical of AI as an iOS Engineer. A React Native Bug Changed My Mind.** *(Apr 2026)*
+- **Working Smarter with AI: A Practical Playbook** *(Apr 2026)*
+- **AI Agents Explained: From Chatbot to Autopilot** *(Apr 2026)*
+- **The Art of Prompting** *(Mar 2026)*
 
-> [Read all articles on Medium →](https://medium.com/@m-hamzak)
+**iOS & Swift**
+- **Stop Writing Image Preview Screens from Scratch — Use HImageViewer** *(Nov 2025)*
+- **Swift Protocols in Action: A Practical Guide to Clean Architecture** *(Feb 2025)*
+- **Mastering Advanced Protocols in Swift** *(Feb 2025)*
+- **SwiftUI Basics: Building Interfaces One View at a Time** *(Apr 2025)*
+
+**Git & tooling**
+- **Git Demystified** · **Mastering Git Branching** series (3 parts)
+
+> [Read all 17 articles on Medium →](https://medium.com/@m-hamzak)
 
 ---
 
