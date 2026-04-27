@@ -82,12 +82,12 @@ I'm a Senior Mobile Engineer specialising in iOS (Swift, SwiftUI) with a track r
 
 | Project | Domain | Tech |
 |---|---|---|
-| [HImageViewer](https://github.com/m-hamzak/HImageViewer) | Open source SwiftUI + UIKit image & video viewer | Swift, SwiftUI, UIKit, SPM |
+| [HImageViewer](https://github.com/m-hamzak/HImageViewer) | Open source SwiftUI + UIKit image & video viewer — paged gallery, pinch-to-zoom, video playback, multi-select, drag-to-reorder, remote image loading | Swift, SwiftUI, UIKit, SPM |
 | R.O.Writer | Automotive workshop management platform | Swift, MVVM, ML Kit, Azure |
 | COFE App | Coffee ordering platform — base product powering multiple branded child apps across different coffee chains | Swift, UIKit |
-| Khaleeji Commercial Bank | Mobile banking — GCC | Swift, Apple Pay, FIME, Security |
-| Bank of Bahrain & Kuwait | Mobile banking — GCC | Swift, UIKit, Encryption |
-| Habib Metro Bank | Mobile banking | Swift, UIKit, RTL, Apple Watch |
+| Khaleeji Commercial Bank | Mobile banking — GCC | Swift, Apple Pay, FIME, Security, RTL, Apple Watch |
+| Bank of Bahrain & Kuwait | Mobile banking — GCC | Swift, UIKit, Encryption, RTL, Apple Watch |
+| Habib Metro Bank | Mobile banking | Swift, UIKit |
 | GeoRep | Real-time field sales navigation | iOS + Android, MapBox, Stripe |
 | RozCar | Van service app — ride booking, maps, navigation, daily schedules | iOS + Android, MapBox |
 
